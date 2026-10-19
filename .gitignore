@@ -1,0 +1,26 @@
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# User materials and generated presentations are not Skill source
+work/
+private/
+outputs/
+*.pptx
+*.ppt
+*.pdf
+*.zip
+~$*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delicious-PPT · ChatGPT"
+  short_description: "制作课堂评审 PPT，支持主题配图生成、逐页节奏与动画检查"
+  default_prompt: "请使用 $delicious-ppt-chatgpt 阅读我的文档，制作 38–40 分钟的课堂评审 PPT，核心讲述内容约八成上屏，不写发言稿。"
