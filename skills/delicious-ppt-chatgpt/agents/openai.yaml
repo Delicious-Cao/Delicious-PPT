@@ -1,4 +1,4 @@
 interface:
   display_name: "Delicious-PPT · ChatGPT"
-  short_description: "按用途与时长制作 PPT，强制生成每页背景、逐段动画与指定字体"
-  default_prompt: "请使用 $delicious-ppt-chatgpt 制作 PPT，补问用途与时长等缺失信息，必须生成每页背景、逐段编排动画，并执行小标宋、仿宋不加粗和新罗马体及背景淡化要求。"
+  short_description: "深入访谈、充分理解并确认需求后制作 PPT，强制背景、动画与指定字体"
+  default_prompt: "请使用 $delicious-ppt-chatgpt 制作 PPT，先深入访谈，问题可以详细；达到约99%的需求理解并复述确认制作方案后再开工，保留强制生成背景、逐段动画、指定字体和背景淡化要求。"
