@@ -1,0 +1,85 @@
+{
+  "reference_builder": "Native Microsoft PowerPoint COM",
+  "powerpoint_version": "16.0",
+  "powerpoint_build": "20430",
+  "slides": [
+    {
+      "slide": 1,
+      "title": "城市自然观察",
+      "background_file": "assets/bg-01.jpg",
+      "background_origin": "web-search",
+      "animated_shape_ids": [
+        5,
+        6,
+        7
+      ],
+      "static_text": [
+        {
+          "shape_id": 8,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 45
+    },
+    {
+      "slide": 2,
+      "title": "叶片观察",
+      "background_file": "assets/bg-02.jpg",
+      "background_origin": "web-search",
+      "animated_shape_ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "static_text": [
+        {
+          "shape_id": 9,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 90
+    },
+    {
+      "slide": 3,
+      "title": "10分钟观察安排",
+      "background_file": "assets/bg-03.jpg",
+      "background_origin": "web-search",
+      "animated_shape_ids": [
+        5,
+        6,
+        7
+      ],
+      "static_text": [
+        {
+          "shape_id": 8,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 90
+    },
+    {
+      "slide": 4,
+      "title": "记录与分享",
+      "background_file": "assets/bg-04.jpg",
+      "background_origin": "web-search",
+      "animated_shape_ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "static_text": [
+        {
+          "shape_id": 9,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 75
+    }
+  ]
+}

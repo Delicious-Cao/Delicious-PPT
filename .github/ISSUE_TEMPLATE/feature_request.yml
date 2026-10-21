@@ -1,0 +1,17 @@
+name: 改进建议
+description: 提议新的工作流、兼容环境或示例
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 希望解决什么使用问题
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 期望行为与具体例子
+      description: "如涉及现有强制要求，请说明希望保留或改变什么，以及影响的使用场景。"
+    validations:
+      required: true

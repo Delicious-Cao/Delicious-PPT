@@ -1,0 +1,42 @@
+{
+  "strategy": "ChatGPT variant: actually generated full-slide backgrounds",
+  "execution_environment": "Maintainer reference build in Codex; not a ChatGPT web-client benchmark",
+  "assets": [
+    {
+      "slide": 1,
+      "file": "assets/bg-01.png",
+      "origin": "image-generation",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: productivity-visual. Asset type: full-bleed 16:9 PowerPoint background, landscape 1920x1080 composition. Create a refined editorial architectural photograph of a small welcoming campus reading corner: pale oak bookcases, a low bench and several books, soft afternoon light through windows, leafy green accent outside. Main furniture and visual interest on right 50 percent, left 50 percent a softly lit warm ivory wall and very low-detail negative space for large Chinese slide text. Warm natural cream, muted sage, honey oak palette, sophisticated quiet optimistic atmosphere. Photorealistic architectural visualization of an invented space, no people. Entire image one coherent scene edge to edge; no split panels, no typography, no letters, no numerals, no logos, no watermark, no infographic.",
+      "sha256": "b2dd21e66a9a6e20c302e75bbc665b8198a429adf1ad2361bd2c98435b903453",
+      "created_on": "2026-10-21"
+    },
+    {
+      "slide": 2,
+      "file": "assets/bg-02.png",
+      "origin": "image-generation",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: productivity-visual. Asset type: full-bleed 16:9 PowerPoint background, wide landscape. An inviting campus reading nook seen from a new angle: shallow depth of field, close-up of an open book on a light oak ledge on the far right, bookshelf further behind, soft morning light, small plant. Main subject in right third, left two thirds softly illuminated cream architectural surface with subdued organic shadows and clean low-detail space for text. Editorial interior photography, restrained sage and warm cream palette, consistent elegant photorealistic invented campus interior. No readable text anywhere in books, no humans, no letters, no logos, no watermark, no panels or diagram.",
+      "sha256": "a454d668b72810011cdcb74de785d9866e283d194d75654ea5912a7eaa3fc882",
+      "created_on": "2026-10-21"
+    },
+    {
+      "slide": 3,
+      "file": "assets/bg-03.png",
+      "origin": "image-generation",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: productivity-visual. Asset type: full-slide 16:9 landscape background for an editable schedule table. Wide coherent minimalist school library interior, a quiet row of pale wooden benches and muted sage shelves receding into the far-right background; daylight from high windows, calm bright warm ivory atmosphere. Center and left 75 percent deliberately extremely low-detail but still naturally photographic cream space, detailed objects confined to outer right quarter and soft bottom edge; suitable behind a table of Chinese text. Natural editorial architectural photo realism, warm oak and pale sage, no people, no readable writing, no text, no logos, no watermark, no split screens.",
+      "sha256": "f02f26facc7c318345a6d41dc3903541af1d3152c5a1d3e17dd1477904525886",
+      "created_on": "2026-10-21"
+    },
+    {
+      "slide": 4,
+      "file": "assets/bg-04.png",
+      "origin": "image-generation",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: productivity-visual. Asset type: full-bleed 16:9 widescreen PowerPoint background. Quiet optimistic campus courtyard reading corner viewed from inside through a wide opening, warm ivory wall and sunlit edge of a bookshelf; a pale oak chair, two closed blank books and gentle leaves in the right third, subtle late afternoon shadows. The left 60 percent is calm empty warm cream architectural space suitable for final-slide text. Consistent restrained editorial architectural photography, soft sage foliage, warm oak, no people, invented space. No printed text, no letters or numerals, no logos, no watermark, no infographic.",
+      "sha256": "d5dad4db61866cb1781fe39591ae565d5827f76058b85b923446f42b1eea6d49",
+      "created_on": "2026-10-21"
+    }
+  ]
+}

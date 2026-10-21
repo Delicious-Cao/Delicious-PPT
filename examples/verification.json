@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-21",
+  "powerpoint_version": "16.0",
+  "powerpoint_build": "20430",
+  "examples": [
+    {
+      "variant": "chatgpt-reading",
+      "slides": [
+        {
+          "slide": 1,
+          "native_animation_effects": 3,
+          "transition": "fade",
+          "latin_characters_checked": 2,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 2,
+          "native_animation_effects": 4,
+          "transition": "fade",
+          "latin_characters_checked": 3,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 3,
+          "native_animation_effects": 3,
+          "transition": "fade",
+          "latin_characters_checked": 6,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 4,
+          "native_animation_effects": 4,
+          "transition": "fade",
+          "latin_characters_checked": 2,
+          "editable_text_non_bold": true
+        }
+      ],
+      "native_tables": 1,
+      "video_duration_seconds": 26.076667,
+      "pptx_sha256": "25e38b9bcc80c3209bf5e7301747e740b0a7dcfd1a080731a526fa157c010a4b"
+    },
+    {
+      "variant": "deepseek-nature",
+      "slides": [
+        {
+          "slide": 1,
+          "native_animation_effects": 3,
+          "transition": "fade",
+          "latin_characters_checked": 2,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 2,
+          "native_animation_effects": 4,
+          "transition": "fade",
+          "latin_characters_checked": 2,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 3,
+          "native_animation_effects": 3,
+          "transition": "fade",
+          "latin_characters_checked": 11,
+          "editable_text_non_bold": true
+        },
+        {
+          "slide": 4,
+          "native_animation_effects": 4,
+          "transition": "fade",
+          "latin_characters_checked": 2,
+          "editable_text_non_bold": true
+        }
+      ],
+      "native_tables": 1,
+      "video_duration_seconds": 26.076667,
+      "pptx_sha256": "886b246670122ae95eade6e3d26d78ab14b2127dec5619cd6ad72aa122d35743"
+    }
+  ]
+}

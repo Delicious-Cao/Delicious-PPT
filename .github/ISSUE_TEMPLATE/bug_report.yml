@@ -1,0 +1,32 @@
+name: 问题反馈
+description: 报告可复现的 Skill、字体、背景、动画或导出问题
+title: "[Bug] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Skill 版本与变体
+      placeholder: "例如 v1.0.0 / ChatGPT 版"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境
+      description: "请说明宿主、模型（如可知）、操作系统、放映软件及版本，以及相关工具是否可用。"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤与最小输入
+      description: "提供可公开的小型材料或操作步骤，不上传凭据、私有资料或字体文件。"
+    validations:
+      required: true
+  - type: textarea
+    id: expected_actual
+    attributes:
+      label: 预期与实际表现
+      description: "说明在哪一页、哪个操作或哪个文件出现问题，可附脱敏截图。"
+    validations:
+      required: true

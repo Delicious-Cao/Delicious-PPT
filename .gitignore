@@ -19,6 +19,10 @@ outputs/
 *.zip
 ~$*
 
+# Public reference examples are intentional deliverables
+!examples/**/*.pptx
+!examples/**/*.pdf
+
 # Editor and OS files
 .DS_Store
 Thumbs.db

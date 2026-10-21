@@ -1,0 +1,62 @@
+{
+  "strategy": "DeepSeek variant: searched web images as backgrounds; no image generation",
+  "execution_environment": "Maintainer reference build in Codex on Windows; not a DeepSeek client benchmark",
+  "assets": [
+    {
+      "slide": 1,
+      "file": "assets/bg-01.jpg",
+      "origin": "web-search",
+      "title": "Tree_in_park_in_Cupertino_California.JPG",
+      "author": "Tomwsulcer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tree_in_park_in_Cupertino_California.JPG",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tree_in_park_in_Cupertino_California.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-21",
+      "sha256": "133c37dfb5784b677b6f3e5ec5e36b7298b1a2cdbaac64bd685566fad7f1c3e8"
+    },
+    {
+      "slide": 2,
+      "file": "assets/bg-02.jpg",
+      "origin": "web-search",
+      "title": "Leaves_on_tree,_Manhasset_(1).jpg",
+      "author": "D. Benjamin Miller",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leaves_on_tree%2C_Manhasset_%281%29.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Leaves_on_tree%2C_Manhasset_%281%29.jpg/1920px-Leaves_on_tree%2C_Manhasset_%281%29.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-21",
+      "sha256": "13c09ba2e1e92d54bd5f88569cdc8560a3f3dd61d6e35e860d3b4c02fbf93956",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Leaves_on_tree%2C_Manhasset_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "download_note": "Wikimedia-provided 1920px rendition for presentation use; source original unchanged"
+    },
+    {
+      "slide": 3,
+      "file": "assets/bg-03.jpg",
+      "origin": "web-search",
+      "title": "Conservatory_Garden_central_lawn_jeh.jpg",
+      "author": "Jim.henderson",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Conservatory_Garden_central_lawn_jeh.jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Conservatory_Garden_central_lawn_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-21",
+      "sha256": "b120cd9f290150248fcf2dbfef9fc9eee9c2aa68297bce8841328a6fa289f042"
+    },
+    {
+      "slide": 4,
+      "file": "assets/bg-04.jpg",
+      "origin": "web-search",
+      "title": "Leaves_of_a_green_fern.jpg",
+      "author": "Joselodos",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leaves_of_a_green_fern.jpg",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Leaves_of_a_green_fern.jpg/1920px-Leaves_of_a_green_fern.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-21",
+      "sha256": "6f5b45f8d28d3fb8b02290e08db71b648d1929372b8c7cb195315c78e706e3f9",
+      "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leaves_of_a_green_fern.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "download_note": "Wikimedia-provided 1920px rendition for presentation use; source original unchanged"
+    }
+  ]
+}

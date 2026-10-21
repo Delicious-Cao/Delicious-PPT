@@ -2,6 +2,23 @@
 
 可配置的 PPT 制作与改稿 Skill，适用于课堂授课、工作汇报、项目提案、学术答辩、培训分享与阅读型演示文稿。**先充分访谈、达到约99%的需求理解并确认制作方案，再开工；每页图片背景、逐段动画安排、指定字体和背景融合必须执行。**
 
+当前版本 **1.0.0**。从 [Releases 下载独立 Skill 与完整示例](https://github.com/Delicious-Cao/Delicious-PPT/releases/tag/v1.0.0)，或阅读 [安装与使用](docs/QUICKSTART.md)、[运行环境与兼容性](docs/RUNTIME.md)、[更新记录](CHANGELOG.md)。
+
+## 成品示例
+
+两组各 4 页，包含原始材料、需求设定、可编辑 PPTX、PDF、逐页预览、原生动画视频及素材记录：
+
+| 示例 | 背景策略 | 文件 |
+| --- | --- | --- |
+| 校园阅读空间 | 实际生成 4 张主题背景 | [完整案例](examples/chatgpt-reading/README.md) · [PPTX](examples/chatgpt-reading/sample.pptx) · [动画视频](examples/chatgpt-reading/animation-preview.mp4) |
+| 城市自然观察 | 实际联网搜索 4 张背景图片 | [完整案例](examples/deepseek-nature/README.md) · [PPTX](examples/deepseek-nature/sample.pptx) · [动画视频](examples/deepseek-nature/animation-preview.mp4) |
+
+![校园阅读空间样张](examples/chatgpt-reading/preview/slide-01.png)
+
+![城市自然观察样张](examples/deepseek-nature/preview/slide-01.png)
+
+样例由维护宿主按两种策略制作，不是 ChatGPT 与 DeepSeek 客户端的模型对比测试；实际验证边界见兼容说明。
+
 | 版本 | Skill 文件 | 配图能力 |
 | --- | --- | --- |
 | ChatGPT | [delicious-ppt-chatgpt](skills/delicious-ppt-chatgpt/SKILL.md) | **必须调用图像生成工具制作每页背景**，实际嵌入 PPTX |
@@ -101,17 +118,21 @@ skills/
 │   ├── agents/openai.yaml
 │   └── references/
 │       ├── requirements-intake.md
+│       ├── runtime.md
 │       ├── visual-design.md
 │       └── delivery-checklist.md
 └── delicious-ppt-deepseek/
     ├── SKILL.md
     └── references/
         ├── requirements-intake.md
+        ├── runtime.md
         ├── visual-design.md
         └── delivery-checklist.md
 ```
 
 两个版本均可独立复制使用。共用的需求参考、视觉参考和验收清单在各自目录保留完整副本。
+
+仓库另含 `docs/` 使用与维护说明、`examples/` 完整案例及参考构建脚本、`.github/ISSUE_TEMPLATE/` 问题模板和 `maintenance/` 共用参考同步工具。参与方式见 [贡献指南](CONTRIBUTING.md)，发布流程见 [维护与发布](docs/RELEASING.md)。
 
 ## 许可
 

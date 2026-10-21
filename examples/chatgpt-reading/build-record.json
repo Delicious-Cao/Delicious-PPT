@@ -1,0 +1,85 @@
+{
+  "reference_builder": "Native Microsoft PowerPoint COM",
+  "powerpoint_version": "16.0",
+  "powerpoint_build": "20430",
+  "slides": [
+    {
+      "slide": 1,
+      "title": "校园阅读空间",
+      "background_file": "assets/bg-01.png",
+      "background_origin": "image-generation",
+      "animated_shape_ids": [
+        5,
+        6,
+        7
+      ],
+      "static_text": [
+        {
+          "shape_id": 8,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 45
+    },
+    {
+      "slide": 2,
+      "title": "阅读角的使用场景",
+      "background_file": "assets/bg-02.png",
+      "background_origin": "image-generation",
+      "animated_shape_ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "static_text": [
+        {
+          "shape_id": 9,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 90
+    },
+    {
+      "slide": 3,
+      "title": "一周试运行安排",
+      "background_file": "assets/bg-03.png",
+      "background_origin": "image-generation",
+      "animated_shape_ids": [
+        5,
+        6,
+        7
+      ],
+      "static_text": [
+        {
+          "shape_id": 8,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 90
+    },
+    {
+      "slide": 4,
+      "title": "反馈与下一步",
+      "background_file": "assets/bg-04.png",
+      "background_origin": "image-generation",
+      "animated_shape_ids": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "static_text": [
+        {
+          "shape_id": 9,
+          "reason": "Persistent page orientation marker"
+        }
+      ],
+      "transition": "fade",
+      "estimated_talk_seconds": 75
+    }
+  ]
+}
